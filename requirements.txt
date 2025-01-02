@@ -1,0 +1,6 @@
+streamlit==1.16.0
+Pillow==8.4.0
+deepl==1.10.0
+azure-ai-inference==1.0.0
+azure-core==1.21.0
+python-docx==0.8.11
