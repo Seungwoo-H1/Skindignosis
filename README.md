@@ -38,13 +38,13 @@ Below is a <b>download</b> screen of the application:
 
 
 ## Requirements
-- Python 3.x
-- Streamlit
-- Pillow
-- deepl
-- requests
-- python-docx
-- azure-ai-inference
+- `streamlit`: For building the web application.
+- `Pillow`: For processing images (e.g., opening, resizing, and displaying images).
+- `deepl`: For text translation using the DeepL API.
+- `python-docx`: For generating `.docx` feedback files.
+- `azure-cognitiveservices-vision-customvision`: For interacting with the Azure Custom Vision API.
+- `base64`: For encoding images in Base64 format.
+- `io`: For handling byte streams (used when generating `.docx` files).
 
 ## Installation
 
