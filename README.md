@@ -8,6 +8,35 @@ This is an AI-based skin disease diagnosis website using Azure's Custom Vision, 
 - Feedback generation and treatment recommendations.
 - Option to download feedback as a .docx file.
 
+## Demo Screenshot
+
+Below is a main screen of the application:
+
+<table>
+  <tr>
+    <td><img src="data/img/main screen.png" width="500" alt="Demo Screenshot 1"/></td>
+    <td><img src="data/img/upload and prediction.png" width="500" alt="Demo Screenshot 2"/></td>
+  </tr>
+</table>
+
+Below is a LLM screen of the application:
+
+<table>
+  <tr>
+    <td><img src="data/img/LLM1.png" width="500" alt="Demo Screenshot 1"/></td>
+    <td><img src="data/img/LLM2.png" width="500" alt="Demo Screenshot 2"/></td>
+  </tr>
+</table>
+
+Below is a download as docx screen of the application:
+
+<table>
+  <tr>
+    <td><img src="data/img/download as docx.png" width="480" alt="Demo Screenshot 1"/></td>
+  </tr>
+</table>
+
+
 ## Requirements
 - Python 3.x
 - Streamlit
