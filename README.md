@@ -89,4 +89,4 @@ To run the app locally, you need to configure the following environment variable
    DEEPL_API_KEY=your_deepl_api_key
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
