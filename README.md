@@ -50,10 +50,10 @@ Below is a <b>download</b> screen of the application:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/know-your-skin.git
+   git clone https://github.com/Seungwoo-H1/skindignosis.git
 2. Navigate to the project folder:
    ```bash
-   cd know-your-skin
+   cd skindignosis
 3. Create and activate a virtual environment (optional but recommended):
    ```bash
    python -m venv venv
@@ -61,7 +61,9 @@ Below is a <b>download</b> screen of the application:
 4. Install the dependencies:
    ```bash
    pip install -r requirements.txt
-5. Run the app:
+5. Prepare your classification data
+   
+6. Run the app:
    ```bash
    streamlit run app.py
 
