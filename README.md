@@ -1,4 +1,4 @@
-# Know Your Skin - AI-based Skin Disease Diagnosis Website
+# Know Your Skin - AI-based Skin Disease Diagnosis 
 
 This is an AI-based skin disease diagnosis website using Azure's Custom Vision, PhiModel, and LlamaModel. The app allows users to upload an image of their skin and get a prediction of a skin condition along with treatment recommendations.
 
