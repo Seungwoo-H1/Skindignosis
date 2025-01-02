@@ -10,7 +10,7 @@ This is an AI-based skin disease diagnosis website using Azure's Custom Vision, 
 
 ## Demo Screenshot
 
-Below is a main screen of the application:
+Below is a <b>main</b> screen of the application:
 
 <table>
   <tr>
@@ -19,7 +19,7 @@ Below is a main screen of the application:
   </tr>
 </table>
 
-Below is a LLM screen of the application:
+Below is a <b>LLM</b> screen of the application:
 
 <table>
   <tr>
@@ -28,7 +28,7 @@ Below is a LLM screen of the application:
   </tr>
 </table>
 
-Below is a download as docx screen of the application:
+Below is a <b>download</b> screen of the application:
 
 <table>
   <tr>
