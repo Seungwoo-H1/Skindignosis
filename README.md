@@ -40,8 +40,11 @@ Below is a <b>download</b> screen of the application:
 ## Requirements
 - Python 3.x
 - Streamlit
-- Deepl API Key
-- Azure API Key
+- Pillow
+- deepl
+- requests
+- python-docx
+- azure-ai-inference
 
 ## Installation
 
