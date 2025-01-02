@@ -61,7 +61,23 @@ Below is a <b>download</b> screen of the application:
 4. Install the dependencies:
    ```bash
    pip install -r requirements.txt
-5. Prepare your classification data
+5. Set up Azure Custom Vision Model:
+ - **Create a Custom Vision project**:
+   - Go to the [Azure Custom Vision portal](https://portal.azure.com/) and select **Custom Vision**.
+   - Create a new project and choose a classification model type (either **Multiclass Classification** or **Multilabel Classification**).
+ 
+ - **Label your images**:
+   - Upload and label images in the Custom Vision portal.
+   - After labeling the images, train your model.
+ 
+ - **Retrieve your API Key and Endpoint**:
+   - In the Azure portal, go to the **Keys and Endpoint** section of your Custom Vision resource and copy the **Prediction Key** and **Endpoint**.
+ 
+ - **Get your Iteration Name**:
+   - After training your model, find the **Iteration Name** in the Azure portal. This identifies the specific version of your model.
+
+ - **Update `app.py`**:
+   - Open `app.py` and replace the placeholders (`PREDICTION_KEY`, `ENDPOINT`, `PROJECT_ID`, `ITERATION_NAME`) with the values you retrieved from Azure.
    
 6. Run the app:
    ```bash
